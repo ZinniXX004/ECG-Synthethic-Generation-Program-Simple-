@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/08/28 13:18:53.000.290,=C:\Users\USER\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/30 11:51:47.000.880,=C:\Users\USER\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/30 11:53:58.000.152,D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\Unit1.dfm=C:\Users\USER\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2025/09/30 11:53:58.000.152,D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\Unit1.pas=C:\Users\USER\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/09/30 11:54:00.000.221,D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\Project1.dproj=C:\Users\USER\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/10/01 18:00:47.000.529,D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\Project1.dproj=D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\ECGSynthetic.dproj</Transaction>
+    <Transaction>2025/10/01 18:00:59.000.608,D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\Unit1.dfm=D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\ECGSyntheticGeneration.dfm</Transaction>
+    <Transaction>2025/10/01 18:00:59.000.608,D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\Unit1.pas=D:\Sem 5\Biomodelling (A)\5023231017_Jeremia Christ Immanuel Manalu_Final Project_ECG Synthetic_Biomodelling (A)_Bu Nada\ECGSyntheticGeneration.pas</Transaction>
+  </Transactions>
+</BorlandProject>
